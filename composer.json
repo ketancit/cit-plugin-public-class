@@ -3,7 +3,7 @@
   "description": "Autoload class on the front-end side",
   "keywords": ["wordpress", "plugin", "cit-boilerplate", "cit-public"],
   "homepage": "https://github.com/ketancit/cit-boilerplate",
-  "license": "MIT",
+  "license": "mit",
   "authors": [
     {
       "name": "Ketan Vyawahare",
