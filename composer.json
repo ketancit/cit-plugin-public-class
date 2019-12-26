@@ -1,0 +1,17 @@
+{
+  "name": "citboilerplate/public-class",
+  "description": "Autoload class on the front-end side",
+  "keywords": ["wordpress", "plugin", "cit-boilerplate", "cit-public"],
+  "homepage": "https://github.com/ketancit/cit-boilerplate",
+  "authors": [
+    {
+      "name": "Ketan Vyawahare",
+      "email": "ketanv@conscienceit.com",
+      "homepage": "https://conscienceit.com/"
+    }
+  ],
+  "type": "public-class",
+  "require": {
+    "php": ">=7.1"
+  }
+}
