@@ -11,7 +11,7 @@
       "homepage": "https://conscienceit.com/"
     }
   ],
-  "type": "public-class",
+  "type": "wordpress-plugin",
   "require": {
     "php": ">=7.1",
     "composer/installers": "~1.0"
